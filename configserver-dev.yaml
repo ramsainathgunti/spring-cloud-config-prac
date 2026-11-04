@@ -1,3 +1,4 @@
+build:
   id: 2
   name: "config server dev"
   version: "1.0.1"
