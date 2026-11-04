@@ -1,1 +1,4 @@
-
+build:
+  id: 2
+  name: "config server prod"
+  version: "1.0.2"
